@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://www.rabbitrepo.com/parnuan.gif" />
-  <h1 align="center">ป้านวล</h1> 
+  <h1 align="center">👵🏼 ป้านวล</h1> 
   <h3 align="center" style="margin: 0;">จดรายจ่ายง่าย เพียงส่งไลน์</h3>
   <a href="https://lin.ee/dy5jPF0"> <!-- Replace with your desired URL -->
     <img src="https://khanoykorshabu.com/wp-content/uploads/2018/11/add-line-icon.png" width="150px" />
