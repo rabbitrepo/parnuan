@@ -7,9 +7,15 @@
   </a>
 </div>
 
+# Architecture
 <div align="center">
+  <img src="https://www.rabbitrepo.com/parnuan-architecture.png" width="600px"/>
+</div>
+
+# Learn More
+Find out more about the list of features and Parnuan 2.0 here:
+
   <a href="https://spiffy-snowplow-54e.notion.site/Parnuan-dd50996391b54cb6a8a2325f9eee871d"> 
     <img src="https://www.golfgooroo.com/wp-content/uploads/2008/04/learn-more-button-png-learn-more-button-rainwater-1024.png" width="100px" />
   </a>
-</div>
 
