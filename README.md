@@ -13,6 +13,8 @@
 </div>
 
 # Learn More
+** This project is not source available. **
+
 Find out more about the list of features and Parnuan 2.0 here:
 
   <a href="https://spiffy-snowplow-54e.notion.site/Parnuan-dd50996391b54cb6a8a2325f9eee871d"> 
